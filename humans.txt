@@ -1,0 +1,10 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    David Kelly - Design & Development - @davkell | http://www.davidkelly.ie
+    Jo Lavelle  - Interviews - @jolavelle | http://jolavelle.com
+    Boyd Challenger - Photography - http://www.boydchallenger.com
+
+    

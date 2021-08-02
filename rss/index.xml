@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>A Tribal Vision</title>
+        <description>Galway's Creative Culture - Weekly Interviews</description>      
+        <link>https://atribalvision.com</link>
+        <atom:link href="https://atribalvision.com/rss" rel="self" type="application/rss+xml" />
+        
+            <item>
+                <title>Mike McCormack | Interview 52</title>
+                <description>Mike McCormack is the award-winning author of five books, with Solar Bones, his latest, having been recently released by Tramp Press.</description>
+                <pubDate>2016-06-27T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/052-mike-mccormack</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/052-mike-mccormack</guid>
+            </item>
+            <item>
+                <title>Ainslie Peters | Interview 51</title>
+                <description>Currently the chair of Galway Design Network, furniture designer Ainslie Peters works with Nadhura bespoke furniture design.</description>
+                <pubDate>2016-06-20T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/051-ainslie-peters</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/051-ainslie-peters</guid>
+            </item>
+            <item>
+                <title>Declan Gibbons | Interview 50</title>
+                <description>Declan is Manager of Galway Film Centre, having previously worked with the Galway Arts Festival, Macnas and Druid. The Galway Film Centre led Galway&#039;s successful bid for the Unesco City of Film designation in 2014.</description>
+                <pubDate>2016-06-13T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/050-declan-gibbons</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/050-declan-gibbons</guid>
+            </item>
+            <item>
+                <title>Darach Mac Con Iomaire | Interview 49</title>
+                <description>Darach is a writer and director, and currently a commissioning editor for TG4. He wrote the series Corp + Anam, which won an IFTA in 2011 and 2015, and was previously artistic director of An Taibhdhearc.</description>
+                <pubDate>2016-06-07T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/049-darach-mac-con-iomaire</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/049-darach-mac-con-iomaire</guid>
+            </item>
+            <item>
+                <title>Donal McConnon | Interview 48</title>
+                <description>One of the founding members of Galway band, My Fellow Sponges, Donal McConnon writes music, plays guitar, clarinet, the banjo and piano, as well as singing with the band.</description>
+                <pubDate>2016-05-30T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/048-donal-mcconnan</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/048-donal-mcconnan</guid>
+            </item>
+            <item>
+                <title>Alan Duggan | Interview 47</title>
+                <description>A veteran of the mobile games industry, Alan is the CEO of Tribal City Interactive, and is part of a new games hub in the Centre of Creative Media and Arts.</description>
+                <pubDate>2016-05-23T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/047-alan-duggan</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/047-alan-duggan</guid>
+            </item>
+            <item>
+                <title>Judith Sibley | Interview 46</title>
+                <description>Coreographer and dancer Judith Sibley is the artistic director of Youth Ballet West. A director of the &#039;resting&#039; Chrysalis professional dance company, she also teaches dance in the Corrib Dance Academy.</description>
+                <pubDate>2016-05-16T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/046-judith-sibley</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/046-judith-sibley</guid>
+            </item>
+            <item>
+                <title>C&#xe1;it Noone | 45</title>
+                <description>C&#xe1;it is the &lrm;Head of College of Tourism &amp; Arts, and VP of International Engagement at GMIT. A very prominent campaigner for food education for all, C&#xe1;it is also one of those behind the winning bid for Galway as a European Region of Gastronomy in 2018.</description>
+                <pubDate>2016-05-09T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/045-cait-noone</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/045-cait-noone</guid>
+            </item>
+            <item>
+                <title>Patricia Forde | 44</title>
+                <description>Trish Forde has published 16 children&#039;s books, two plays and a number of TV series. Her first novel, the Wordsmith, was published last year and has been shortlisted for the CBI (Children&#039;s Books Ireland) Book of the Year Awards 2016.</description>
+                <pubDate>2016-05-03T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/044-patricia-forde</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/044-patricia-forde</guid>
+            </item>
+            <item>
+                <title>Moe Honan | 43</title>
+                <description>Moe Honan is the producer and CEO of Moetion Films, which recently developed the animated international box office success Two By Two.</description>
+                <pubDate>2016-04-25T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/043-moe-honan</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/043-moe-honan</guid>
+            </item>
+            <item>
+                <title>M&aacute;ir&eacute;ad N&iacute; Chr&oacute;in&iacute;n | 42</title>
+                <description>M&aacute;ir&eacute;ad is the co-director of Moonfish Theatre Company, Festival Manager of Galway Theatre Festival and is also undertaking a PhD at NUI Galway.</description>
+                <pubDate>2016-04-18T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/042-mairead-ni-chroinin</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/042-mairead-ni-chroinin</guid>
+            </item>
+            <item>
+                <title>Patrick Lonergan | 41</title>
+                <description>Patrick is a Professor in Drama studies at NUI Galway. One of the main players in the development of a new theatre space for NUIG, Patrick was also involved in the project to digitise the Abbey Theatre&#039;s archives, which is the world&#039;s biggest digital theatre archive.</description>
+                <pubDate>2016-04-11T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/041-patrick-lonergan</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/041-patrick-lonergan</guid>
+            </item>
+            <item>
+                <title>Tracy Bruen | 40</title>
+                <description>Singer, musician and actress, Tracy Bruen has played Electric Picnic, Body and Soul, and released her debut EP, &#039;Outside the Lines&#039; in 2014. She has toured nationally with Decadent Theatre company and is a member of Fregoli Theatre Company</description>
+                <pubDate>2016-04-04T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/040-tracy-bruen</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/040-tracy-bruen</guid>
+            </item>
+            <item>
+                <title>Mark Campbell | 39</title>
+                <description>Mark is a multimedia designer from Galway making healthcare and health understanding more meaningful through the use of 3D graphics and animation.</description>
+                <pubDate>2016-03-29T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/039-mark-campbell</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/039-mark-campbell</guid>
+            </item>
+            <item>
+                <title>Joe Boske | 38</title>
+                <description>Artist Joe Boske, with a love of surrealism and &#039;daftness&#039;, has produced some of the most iconic artwork Galway has ever seen.</description>
+                <pubDate>2016-03-21T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/038-joe-boske</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/038-joe-boske</guid>
+            </item>
+            <item>
+                <title>Louise Manifold | 37</title>
+                <description>Louise is a conceptual artist working with film, photography, sculpture and text. Having exhibited widely both nationally and internationally, one of Louise&#039;s recent collaborations was with renowned author, Kevin Barry</description>
+                <pubDate>2016-03-14T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/037-louise-manifold</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/037-louise-manifold</guid>
+            </item>
+            <item>
+                <title>Siobh&aacute;n N&iacute; Ghadhra | 36</title>
+                <description>With two Emmy wins, five Emmy nominations and a long list of international co-productions to her name, Siobh&aacute;n N&iacute; Ghadra, director of Dan&uacute; Media and Production Manager of Ros na R&uacute;n, believes the film industry in Galway could be on the cusp of greater things. </description>
+                <pubDate>2016-03-07T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/036-siobhan-ni-ghadhra</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/036-siobhan-ni-ghadhra</guid>
+            </item>
+            <item>
+                <title>Marc Mac Lochlainn | 35</title>
+                <description>Marc is the Artistic Director of Branar  - Theatre for Children through Irish. Branar&#039;s mission is to produce a &#039;simple, elegant form of theatre for young people, that achieves intricacy through the creative use of few means&#039;. Branar has recently toured The Way Back Home in Japan, Denmark and France.</description>
+                <pubDate>2016-02-29T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/035-marc-mac-lochlainn</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/035-marc-mac-lochlainn</guid>
+            </item>
+            <item>
+                <title>Anne McCabe | 34</title>
+                <description>Anne is the artistic director and manager of An Taibhdhearc. A TV producer and director, she was involved in the setting up of TG4, directed Ros Na Run, and is a  published novelist.</description>
+                <pubDate>2016-02-22T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/034-anne-mccabe</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/034-anne-mccabe</guid>
+            </item>
+            <item>
+                <title>Paddy Tobin | 33</title>
+                <description>Formerly of Letterfrack GMIT, Paddy took up the position of Head of Centre at CCAM with ambitious plans to secure the future of the creative arts in the city and county.</description>
+                <pubDate>2016-02-15T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/033-paddy-tobin</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/033-paddy-tobin</guid>
+            </item>
+            <item>
+                <title>Gala Tomasso | 32</title>
+                <description>Gala is an illustrator and owner of Project Gala, which produces natural beauty products. </description>
+                <pubDate>2016-02-08T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/032-gala-tomasso</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/032-gala-tomasso</guid>
+            </item>
+            <item>
+                <title>JP McMahon Interview | 31</title>
+                <description>JP McMahon is a chef and owner of Cava Bodega, Aniar and Eat Gastropub. He was behind the recent Food on the Edge conference that brought the world&#039;s best chefs to Galway and is Director of Galway Food Festival.</description>
+                <pubDate>2016-02-01T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/031-jp-mcmahon</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/031-jp-mcmahon</guid>
+            </item>
+            <item>
+                <title>Luke Morgan Interview | 30</title>
+                <description>Luke Morgan is a young Galway filmmaker whose short film made it to Cannes last May. He&rsquo;s also the co-founder of The Theatre Room, a novelist and a poet.</description>
+                <pubDate>2016-01-25T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/030-luke-morgan</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/030-luke-morgan</guid>
+            </item>
+            <item>
+                <title>Louise Spokes Interview | 29</title>
+                <description>Louise is a Visual Artist and Jewellery designer/maker, Visual Art Coordinator for An &Aacute;it Eile and board member at 126 Artist-Run Gallery.</description>
+                <pubDate>2016-01-18T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/029-louise-spokes</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/029-louise-spokes</guid>
+            </item>
+            <item>
+                <title>Lillis &Oacute; Laoire Interview | 28</title>
+                <description>Lillis is a sean-n&oacute;s singer and lecturer in Irish language, folklore and Celtic Civilisation in the School of Languages, NUI Galway, and is also a strong advocate for the use of the Irish language in the community.</description>
+                <pubDate>2016-01-11T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/028-lillis-o-laoire</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/028-lillis-o-laoire</guid>
+            </item>
+            <item>
+                <title>Genevieve Ryan Interview | 27</title>
+                <description>Genevieve Ryan is a dancer from New York, who has found her home in Galway. She is co-founder of the Galway Dance Project, and co-producer of Off the Beaten Path. She is also a Sivananda yoga teacher.</description>
+                <pubDate>2016-01-04T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/027-genevieve-ryan</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/027-genevieve-ryan</guid>
+            </item>
+            <item>
+                <title>Dorothy Creaven Interview | 26</title>
+                <description>With a background in IT, a stint in recruitment in Google, and working as a freelance make-up artist for Disney and Paramount, Dorothy found her niche when she co-founded Element Software in 2010.</description>
+                <pubDate>2015-12-21T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/026-dorothy-creaven</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/026-dorothy-creaven</guid>
+            </item>
+            <item>
+                <title>Sarah O&#039;Toole Interview | 25</title>
+                <description>Sarah is an Actor, Playwright and Director. She is also the Artistic Director of Anam Theatre, teaches acting and directing at NUI Galway, and runs Galway Actors Workshop. </description>
+                <pubDate>2015-12-14T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/025-sarah-o-toole</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/025-sarah-o-toole</guid>
+            </item>
+            <item>
+                <title>Ulla Hokkanen Interview | 24</title>
+                <description>Ulla is the circus director of Galway Community Circus, the largest youth arts organisation in the city.  Her parents set up a youth circus in her home town of Mantta in Finland when she was a child</description>
+                <pubDate>2015-12-07T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/024-ulla-hokkanen</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/024-ulla-hokkanen</guid>
+            </item>
+            <item>
+                <title>Kenny Gaughan Interview | 23</title>
+                <description>Kenny is a co-founder of Little Cinema, a monthly short film showcase screening local filmmakers of all levels</description>
+                <pubDate>2015-11-30T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/023-kenny-gaughan</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/023-kenny-gaughan</guid>
+            </item>
+            <item>
+                <title>Enda McEvoy Interview | 22</title>
+                <description>Enda is a Michelin star winning chef and owner of Loam. Prior to opening Loam, Enda worked at Aniar, which also won a Michelin star. He previously worked at Sheridan&#039;s on the Docks and Nimmos.</description>
+                <pubDate>2015-11-23T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/022-enda-mcevoy</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/022-enda-mcevoy</guid>
+            </item>
+            <item>
+                <title>Maeve Mulrennan Interview | 21</title>
+                <description>Maeve is a curator and writer based in Galway. She is the Head of Visual Art &amp; Education in Galway Arts Centre, and lectures on the MA in Arts Policy &amp; Practice at NUI Galway</description>
+                <pubDate>2015-11-16T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/021-maeve-mulrennan</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/021-maeve-mulrennan</guid>
+            </item>
+            <item>
+                <title>Michael FitzGerald Interview | 20</title>
+                <description>Michael is CEO of OnePageCRM and co-founder of the PorterShed. He also lectures part-time at NUI Galway on Digital Marketing, Entrepreneurship &amp; Innovation</description>
+                <pubDate>2015-11-09T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/020-michael-fitzgerald</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/020-michael-fitzgerald</guid>
+            </item>
+            <item>
+                <title>Leon Butler Interview | 19</title>
+                <description>Leon Butler is a filmmaker, animator, graphic designer, print designer and musician. The Chair of Galway Design Week 2015, Leon also lectures in animation at GTI.</description>
+                <pubDate>2015-11-02T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/019-leon-butler</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/019-leon-butler</guid>
+            </item>
+            <item>
+                <title>Daniel Ulrichs Interview | 18</title>
+                <description>Daniel Ulrichs is the owner of Coffeewerk + Press on Quay Street, the coffee shop, design shop and gallery space. He also owns and runs The Wooden Heart toy shop on Quay Street. </description>
+                <pubDate>2015-10-27T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/018-daniel-ulrichs</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/018-daniel-ulrichs</guid>
+            </item>
+            <item>
+                <title>Lucy Elvis Interview | 17</title>
+                <description>Lucy is the co-chair of the Board of Directors at 126 Artist-Run Gallery. She is currently undertaking a PhD at NUI Galway, and is also an arts writer</description>
+                <pubDate>2015-10-19T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/017-lucy-elvis</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/017-lucy-elvis</guid>
+            </item>
+            <item>
+                <title>Olaf Tyaransen Interview | 16</title>
+                <description>Writer and Journalist Olaf Tyaransen is a contributing editor of Hot Press Magazine. He is also a filmmaker.</description>
+                <pubDate>2015-10-12T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/016-olaf-tyaransen</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/016-olaf-tyaransen</guid>
+            </item>
+            <item>
+                <title>Aislinn O&#039;hEocha | 15</title>
+                <description>Aislinn recently joined Babor&#243; International Arts Festival for Children as Executive Artistic Director, having formerly been manager with Gl&#243;r Theatre and Artistic Director of The Source Arts Centre, Thurles</description>
+                <pubDate>2015-10-05T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/015-aislinn-o-heocha</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/015-aislinn-o-heocha</guid>
+            </item>
+            <item>
+                <title>Garry Hynes Interview | 14</title>
+                <description>Garry is co-founder and Artistic Director of the Druid Theatre Company. Apart from a 4-year stint as Artistic Director of the Abbey Theatre in the 90s, Garry has been the Druid&#039;s Artistic Director since the 70&#039;s</description>
+                <pubDate>2015-09-28T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/014-garry-hynes</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/014-garry-hynes</guid>
+            </item>
+            <item>
+                <title>Finbar 247 Interview | 13</title>
+                <description>Finbar 247 has been working as a graphic and graffiti artist for over a decade, and recently returned to Galway on a mission to bring his art to the streets of the city.</description>
+                <pubDate>2015-09-21T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/013-finbar-247</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/013-finbar-247</guid>
+            </item>
+            <item>
+                <title>Jess Murphy Interview | 12</title>
+                <description>Jess is a chef and owner of Kai Cafe &amp; Restaurant. She recently won &quot;Best Chef in Connaught&quot; in the 2015 Irish Restaurant Awards.</description>
+                <pubDate>2015-09-14T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/012-jess-murphy</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/012-jess-murphy</guid>
+            </item>
+            <item>
+                <title>Suzi Coombs Interview | 11</title>
+                <description>Interview 11 with Suzi Coombs - visual artist, fashion photography model, and bass player in punk band, Overbite</description>
+                <pubDate>2015-09-07T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/011-suzi-coombs</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/011-suzi-coombs</guid>
+            </item>
+            <item>
+                <title>Fergal McGrath Interview | 10</title>
+                <description>Interview 10 with Fergal McGrath - manager of the Town Hall Theatre, and formerly manager of Galway Arts Festival, and Managing Director of Druid Theatre.</description>
+                <pubDate>2015-08-31T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/010-fergal-mcgrath</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/010-fergal-mcgrath</guid>
+            </item>
+            <item>
+                <title>Vinny Browne Interview | 09</title>
+                <description>Interview 09 with Vinny Browne - manager of Charlie Byrne&#039;s Bookstore &amp; Presenter of The Arts Show on Galway Bay FM</description>
+                <pubDate>2015-08-24T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/009-vinny-browne</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/009-vinny-browne</guid>
+            </item>
+            <item>
+                <title>Ruby Wallis Interview | 008</title>
+                <description>Interview 08 with Ruby Wallis - A visual artist who also lectures in visual culture, history and theory of photography and film</description>
+                <pubDate>2015-08-17T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/008-ruby-wallis</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/008-ruby-wallis</guid>
+            </item>
+            <item>
+                <title>Dr Patrick Collins Interview | 007</title>
+                <description>Interview 07 with Dr Patrick Collins - Economic Geographer, NUI Galway, NUI Galway&#039;s Lead Consultant for Galway2020 bid</description>
+                <pubDate>2015-08-10T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/007-pat-collins</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/007-pat-collins</guid>
+            </item>
+            <item>
+                <title>Dani Gill Interview | 006</title>
+                <description>Interview 06 with Dani Gill - Director, C&#250;irt International Festival of Literature. A Tribal Vision: Galway&#039;s Creative Culture.</description>
+                <pubDate>2015-08-04T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/006-dani-gill</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/006-dani-gill</guid>
+            </item>
+            <item>
+                <title>Gugai Interview | 005</title>
+                <description>Interview 05 with Gugai - Co-owner and live music promoter for Roisin Dubh . A Tribal Vision: Galway&#039;s Creative Culture.</description>
+                <pubDate>2015-07-27T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/005-gugai</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/005-gugai</guid>
+            </item>
+            <item>
+                <title>John Crumlish Interview | 004</title>
+                <description>Interview 04 with John Crumlish - CEO of the Galway International Arts Festival. A Tribal Vision: Galway&#039;s Creative Culture. #giaf</description>
+                <pubDate>2015-07-20T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/004-john-crumlish</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/004-john-crumlish</guid>
+            </item>
+            <item>
+                <title>Noeline Kavanagh Interview | 003</title>
+                <description>A Tribal Vision - Galway&#039;s Creative Culture: Interview 003 with Noeline Kavanagh, Artistic Director of Macnas.</description>
+                <pubDate>2015-07-13T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/003-noeline-kavanagh</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/003-noeline-kavanagh</guid>
+            </item>
+            <item>
+                <title>Stephen Walton Interview | 002</title>
+                <description>A Tribal Vision - Galway&#039;s Creative Culture: Interview 002 with Architectural Designer Stephen Walton.</description>
+                <pubDate>2015-07-06T07:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/002-stephen-walton</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/002-stephen-walton</guid>
+            </item>
+            <item>
+                <title>Aoibheann MacNamara Interview | 001</title>
+                <description>A Tribal Vision - Galway&#039;s Creative Culture: Interview 001 with Aoibheann MacNamara.</description>
+                <pubDate>2015-06-30T09:00:00+00:00</pubDate>
+                <link>https://atribalvision.com/interviews/001-aoibheann-macnamara</link>
+                <guid isPermaLink="true">https://atribalvision.com/interviews/001-aoibheann-macnamara</guid>
+            </item>
+        </channel>
+</rss>
