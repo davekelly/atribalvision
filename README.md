@@ -1,4 +1,4 @@
-# atribalvision
+# A Tribal Vision – Galway's Creative Culture
 Repo for static version of the atribalvision.com website
 
 ## About the Project
